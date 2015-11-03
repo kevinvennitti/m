@@ -1,4 +1,4 @@
-# Définir
+## Définir
 
 - Quel(s) langage(s) / quelle(s) typologie(s) de langages ?
   - Structurel (HTML, CSS) ?
@@ -6,7 +6,7 @@
   - Orienté objet (Classes, Objets) ?
 
 
-# Faire
+## Faire
 
 - Étudier les systèmes existants et expliciter « rapidement » les typologies : disposition spatiale (flow-based programming), disposition linéaire (Blockly)
 
@@ -24,7 +24,7 @@
 - Faire des schémas à deux axes, montrant où se place le langage textuel et la programmation visuelle (limites de chaque modèle dans le temps, dans la complexité, dans les besoins, dans l’expérience (1 an de code, 2 ans de code, 5 ans de code)
 
 
-# Écrire
+## Écrire
 
 - **Prélude**
   - Présenter mon profil designer + développeur

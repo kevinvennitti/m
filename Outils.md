@@ -23,6 +23,9 @@ Dessin des « icônes » sur une surface, reconnaissance par le système et gén
 Principe de programmation par bloc, par Google
 [![Blockly](http://blog.interfacevision.com/assets/img/posts/example_visual_language_blockly_01.png)](https://developers.google.com/blockly/)
 
+#### [Kodu](http://www.kodugamelab.com/about)
+UI très riche
+
 #### [Coral](https://vimeo.com/channels/coralapp)
 Démonstrations de l'application Coral
 [![Coral](http://blog.interfacevision.com/assets/img/posts/example_visual_language_Coral.jpg)](https://vimeo.com/channels/coralapp)
