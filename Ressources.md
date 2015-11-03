@@ -16,26 +16,33 @@
 
 
 `Langage de programmation` : 
+
 Notation conventionnelle destinée à _formuler des algorithmes_ et produire des programmes informatiques qui les appliquent. D'une manière similaire à une langue naturelle, un langage de programmation est composé d'un _alphabet_, d'un _vocabulaire_, de _règles de grammaire_, et de _significations_. Un langage de programmation est mis en œuvre par un traducteur automatique : _compilateur ou interpréteur_. Chaque langage de programmation reflète un _paradigme_, un ensemble de notions qui orientent le travail de réflexion du programmeur, sa technique de programmation et _sa manière d'exprimer le fruit de ses réflexions dans le langage choisi_. ([Wikipédia](https://fr.wikipedia.org/wiki/Langage_de_programmation))
 
 `Assemblage d'éléments graphiques` : 
+
 Association d'entités, juxtaposition, imbrication, superposition, liaison
 
 `Symboles graphiques` : 
+
 Boîtes, lignes, plans, points, boutons
 
 `Disposition spatiale` : 
 
 `Former des programmes` : 
+
 En informatique, un programme est un ensemble d'instructions destinées à être exécutées par un ordinateur. ([Wikipédia](https://fr.wikipedia.org/wiki/Programme))
 
 `Entités` : 
+
 Objet, « chose », élément sémantique identifiable
 
 `Relations` : 
+
 Relier par des lignes (parallèle) ou par des flèches (cause / conséquence, suite)
 
 `Syntaxe abstraite / Syntaxe concrète` : 
+
 Dans la définition formelle des langages de programmation, la syntaxe abstraite s'oppose à la syntaxe concrète : tandis que cette dernière représente _les suites de caractères que l'utilisateur doit taper_, la syntaxe abstraite tend à donner une _structure aux données entrées, suggérant au passage la façon de les stocker en mémoire_.
 
 Par exemple, considérant une expression arithmétique dont la _syntaxe concrète est 3*x+5_, sa _syntaxe abstraite pourra être un arbre_ dont la racine est un nœud +, de branche gauche un nœud * (ayant comme branche les feuilles 3 et x), de branche droite une feuille 5. ([Wikipédia](https://fr.wikipedia.org/wiki/Syntaxe_abstraite))
@@ -43,6 +50,7 @@ Par exemple, considérant une expression arithmétique dont la _syntaxe concrèt
 ![Syntaxte abstraite & syntaxte concrète](images/1_SyntaxeAbstraiteSyntaxeConcrete.png)
 
 `Environnement graphique de programmation` : 
+
 Interface accessible par l'utilisateur afin de manipuler des éléments de programmation
 
 Définition associée :
