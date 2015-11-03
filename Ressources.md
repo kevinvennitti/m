@@ -33,7 +33,7 @@
 
 Par exemple, considérant une expression arithmétique dont la _syntaxe concrète est 3*x+5_, sa _syntaxe abstraite pourra être un arbre_ dont la racine est un nœud +, de branche gauche un nœud * (ayant comme branche les feuilles 3 et x), de branche droite une feuille 5. ([Wikipédia](https://fr.wikipedia.org/wiki/Syntaxe_abstraite))
 
-![Syntaxte abstraite & syntaxte concrète](../images/1_SyntaxeAbstraiteSyntaxeConcrete.png)
+![Syntaxte abstraite & syntaxte concrète](images/1_SyntaxeAbstraiteSyntaxeConcrete.png)
 
 `Environnement graphique de programmation` : Interface accessible par l'utilisateur afin de manipuler des éléments de programmation
 
