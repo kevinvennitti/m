@@ -1,11 +1,12 @@
 # Outils
 
-### [Extraits de « Design visual programming languages snapshots »](http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/)
+### Extraits de [« Design visual programming languages snapshots »](http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/)
 
 
 #### [Sketchpad](https://en.wikipedia.org/wiki/Sketchpad)
 Interaction directe avec le support par l'intermédiaire d'un stylet (1963)
 Contrôles analogiques + stylet (pas de HUD graphique)
+
 [![Sketchpad](http://4.bp.blogspot.com/-GABhQtKMmXE/TcBRhTlijeI/AAAAAAAAAbo/-6yGJ5JMC14/s400/first+vector+image.jpg)](https://www.youtube.com/watch?v=495nCzxM9PI&feature=player_embedded)
 
 #### [GRaIL (Graphical Input Language)](http://www.rand.org/content/dam/rand/pubs/research_memoranda/2005/RM5999.pdf)
