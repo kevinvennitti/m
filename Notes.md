@@ -8,6 +8,8 @@
 
 ## Faire
 
+- Distinguer développeur et programmeur ?
+
 - Étudier les systèmes existants et expliciter « rapidement » les typologies : disposition spatiale (flow-based programming), disposition linéaire (Blockly)
 
 - Étudier la structure d’un code textuel (linéarité haut-bas, types de contrôles (extraire aussi des choix de l’interface de blockly) (conditions, actions, événements)
