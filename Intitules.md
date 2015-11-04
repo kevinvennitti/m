@@ -6,4 +6,4 @@ Il s'agit de définir précisément le mémoire, de cibler sa problématique pri
 - [x] Programmation visuelle orientée objet : nouvelles interactions 
 - [ ] De nouvelles interactions en programmation visuelle orientée objet 
 - [x] Nouvelles interactions en programmation visuelle orientée objet 
-- [x] Nouvelles interactions visuelles en programmation orientée objet 
+- [x] Nouvelles interactions visuelles en programmation orientée objet

@@ -26,9 +26,10 @@
 
 - \#1 (Pourquoi « surcoucher » la syntaxe textuelle considérée comme élémentaire ?) : schéma axé de l'écriture d'un code de la manipulation visuelle > écriture du code > compilation
 
-
 ![Du langage source au langage machine](images/4_DuLangageSourceAuLangageMachine.png)
 
 > Pour qu'il puisse être exploité par la machine, le compilateur traduit le code source, écrit dans un langage de haut niveau d'abstraction, facilement compréhensible par l'humain, vers un langage de plus bas niveau, un langage d'assemblage ou langage machine. Dans le cas de langage semi-compilé (ou semi-interprété), le code source est traduit en un langage intermédiaire, sous forme binaire (code objet ou bytecode), avant d'être lui-même interprété ou compilé.
 > Le compilateur va transformer tout le texte représentant le code source du programme, en code compréhensible pour la machine, appelé code machine.
 > — [Wikipédia](https://fr.wikipedia.org/wiki/Compilateur)
+
+GUI comme langage de très haut niveau ?
